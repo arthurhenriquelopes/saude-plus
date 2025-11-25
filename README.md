@@ -1,6 +1,6 @@
 # Saude++
-
-<details id="pt-br">
+![saude++](https://github.com/user-attachments/assets/d55b8613-3404-4386-94a1-720103d935e9)
+<div id="pt-br">
 <summary>🇧🇷 Sobre o projeto</summary>
 <br>
 Bem-vindo ao projeto Saude++! Este é um projeto de faculdade que consiste em um sistema web desenvolvido para a gestão de clínicas médicas e hospitais de médio porte, com o objetivo de aprender sobre design web e ferramentas de desenvolvimento colaborativo, como o GitHub.
@@ -27,11 +27,10 @@ O Saude++ é uma aplicação web projetada para facilitar a gestão de clínicas
 
 ### Como Usar
 
-1. Acesse o site online: [Saude++](https://saulo-ferro-maciel.github.io/SaudePlus/login.html)
+1. Acesse o site online: [Saude++](https://saudeplusplus.vercel.app/)
 2. Navegue pelas funcionalidades de cadastro, agendamento e gerenciamento.
 3. Explore a interface para interagir com o sistema.
-
-</details>
+</div>
 
 ---
 
